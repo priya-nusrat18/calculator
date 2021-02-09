@@ -163,7 +163,6 @@ label {
 /* button style */
 
 .btn {
-	-moz-user-select: none;
 	background: #dc3545 none repeat scroll 0 0;
 	border: medium none;
 	border-radius: 50%;
